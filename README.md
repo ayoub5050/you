@@ -1,2 +1,2 @@
-# you
-Uauz
+echo off
+net user
